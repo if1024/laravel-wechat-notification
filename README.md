@@ -2,7 +2,12 @@
 
 Laravel框架下基于 [laravel-wechat](https://github.com/overtrue/laravel-wechat) 使用微信公众号模板消息作为notification通道的composer包。
 
-[runoob]: http://www.runoob.com/
+<p align="center">
+<a href="https://packagist.org/packages/if1024/laravel-wechat-notification"><img src="https://poser.pugx.org/if1024/laravel-wechat-notification/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/if1024/laravel-wechat-notification"><img src="https://poser.pugx.org/if1024/laravel-wechat-notification/v/unstable.svg" alt="Latest Unstable Version"></a>
+<a href="https://packagist.org/packages/if1024/laravel-wechat-notification"><img src="https://poser.pugx.org/if1024/laravel-wechat-notification/downloads" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/if1024/laravel-wechat-notification"><img src="https://poser.pugx.org/if1024/laravel-wechat-notification/license" alt="License"></a>
+</p>
 
 ## 安装
 
