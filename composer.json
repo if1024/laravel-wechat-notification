@@ -1,0 +1,32 @@
+{
+    "name": "if1024/laravel-wechat-notification",
+    "description": "Wechat template message for Laravel Notification",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "if1024",
+            "email": "m@mmz.la"
+        }
+    ],
+    "require": {
+        "php": "~8.0",
+        "overtrue/laravel-wechat": "^5.0 | ^6.0"
+    },
+    "keywords": [
+        "wechat",
+        "notification",
+        "laravel"
+    ],
+    "autoload": {
+        "psr-4": {
+            "If1024\\LaravelWechatNotification\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "If1024\\LaravelWechatNotification\\ServiceProvider"
+            ]
+        }
+    }
+}
